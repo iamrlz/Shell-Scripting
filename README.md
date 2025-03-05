@@ -5,8 +5,6 @@ This repository provides a comprehensive guide to **Linux Shell Scripting**, cov
 
 ## **Topics Covered**  
 
-- 📌 **Introduction to Linux Shell** and different shell types  
-- 📌 Checking the **shell type** in your system  
 - 📌 Understanding **shell scripting** and creating your first script  
 - 📌 Using the **shebang (`#!`)** line and executing scripts  
 - 📌 Adding **comments** and using **variables** in shell scripts  
