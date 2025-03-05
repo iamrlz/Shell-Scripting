@@ -9,8 +9,3 @@ do
 	echo "Value of Arary is ${myArray[$i]}"
 done
 
-<<comment
-line2 - basically we used takay lenght pata ho loop ko, then
-loop chly ga 6 dafa 
-comment
-
